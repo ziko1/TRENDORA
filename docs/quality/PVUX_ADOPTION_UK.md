@@ -6,7 +6,7 @@
 - **Observed repo:** `ziko1/TRENDORA`; поточна зрілість: `PLACEHOLDER`.
 - **Факти:** default branch містить README.md, LICENSE та .gitignore, але не підтверджений виконуваний frontend.
 - **Read first:** README.md та майбутні окремі project memory/roadmap/backlog/budget.
-- **Повний scoped profile:** [trendora.md](https://github.com/ziko1/ai-team-orchestrator/blob/72e0285809609e2aa557f836f011a452b6e01854/standards/pvux/v1.0/projects/trendora.md) (private upstream, авторизація потрібна).
+- **Повний scoped profile:** [trendora.md](https://github.com/ziko1/ai-team-orchestrator/blob/0fc236c5810f6c82ce2ccba0755c6f7158a7eb4c/standards/pvux/v1.0/projects/trendora.md) (private upstream, авторизація потрібна).
 
 ## Майбутні UX acceptance scenarios
 
